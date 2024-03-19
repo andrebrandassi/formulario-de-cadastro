@@ -1,8 +1,4 @@
-import { Link } from "react-router-dom";
 import { Content, StyleLink } from "../Inicio";
-import styled from "styled-components";
-
-
 
 export const Logged = () => {
     return(
