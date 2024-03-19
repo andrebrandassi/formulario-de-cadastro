@@ -1,4 +1,4 @@
-# Formulario de loggin Vitelife
+# Formulario de loggin e cadastro Vitelife
 
 Este projeto é um formulário de login e criação de conta desenvolvido como parte do meu portfólio como programador front-end. Ele utiliza tecnologias como React, React Router DOM e styled-components para criar uma interface amigável e responsiva.
 
